@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 unzip data.csv.zip
 
-#### Files
+#### Files:
 
 1) DS_NN.ipynb - Main Jupyter Notebook (Python)
 
