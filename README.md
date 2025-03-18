@@ -23,6 +23,6 @@ unzip data.csv.zip
 
 1) DS_NN.ipynb - Main Jupyter Notebook (Python)
 
-2) HP4145A_transistor3_IB_ICOUT_Sweep.ipynb - HP4145A HPIB data collection file for IC
+2) HP4145A_transistor3_IB_ICOUT_Sweep.ipynb - HP4145A HPIB data collection for IC - Jupyter Notebook
 
-3) HP4145A_transistor3_IB_VBOUT_Sweep.ipynb - HP4145A HPIB data collection file for VB
+3) HP4145A_transistor3_IB_VBOUT_Sweep.ipynb - HP4145A HPIB data collection for VB - Jupyter Notebook
